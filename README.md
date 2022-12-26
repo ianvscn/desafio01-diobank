@@ -7,7 +7,7 @@ Typescript
 Como rodar o projeto:
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependências
 
 npm install
 
